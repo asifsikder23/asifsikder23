@@ -1,7 +1,7 @@
 [![MasterHead](https://jayamwebsolutions.com/img/website.gif)]
 <h1 align="center">Hi 👋, I'm Md. Asif Ullah Sikder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[[https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif](https://i.ibb.co/G5z1ffz/asifsikder-cyberpank-toddler-cat-neon-kid-8k-v-4-c33e5454-3ab6-498b-84ca-7c011a535020.png)](https://i.ibb.co/G5z1ffz/asifsikder-cyberpank-toddler-cat-neon-kid-8k-v-4-c33e5454-3ab6-498b-84ca-7c011a535020.png)">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/G5z1ffz/asifsikder-cyberpank-toddler-cat-neon-kid-8k-v-4-c33e5454-3ab6-498b-84ca-7c011a535020.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifsikder23&label=Profile%20views&color=0e75b6&style=flat" alt="asifsikder23" /> </p>
 
