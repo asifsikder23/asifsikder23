@@ -62,15 +62,3 @@
 <hr/>
 
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifsikder23&show_icons=true&locale=en&layout=compact" alt="asifsikder23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifsikder23&show_icons=true&locale=en" alt="asifsikder23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifsikder23&" alt="asifsikder23" /></p>
