@@ -1,7 +1,6 @@
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md. Asif Ullah Sikder!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.Asif Ullah Sikder!;" />
 </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/G5z1ffz/asifsikder-cyberpank-toddler-cat-neon-kid-8k-v-4-c33e5454-3ab6-498b-84ca-7c011a535020.png">
